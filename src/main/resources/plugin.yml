@@ -4,3 +4,8 @@ main: homes.homesplugin.HomesPlugin
 api-version: 1.19
 authors: [ RaveHunter05 ]
 description: Plugin for set homes and go to your homes in minecraft
+commands:
+  setHome:
+    description: set home (only one by user by the moment)
+  home:
+    description: go to the user home
