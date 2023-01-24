@@ -1,0 +1,6 @@
+name: HomesPlugin
+version: '${project.version}'
+main: homes.homesplugin.HomesPlugin
+api-version: 1.19
+authors: [ RaveHunter05 ]
+description: Plugin for set homes and go to your homes in minecraft
